@@ -1,4 +1,5 @@
 #  Bank-Management-System-Java
+
 My 2nd major project after Library System. Built complete banking logic using Java OOP: Encapsulation, Classes, ArrayList, Scanner. Features: Create Account (auto acc no), Deposit, Withdraw with validation, Search Account, Show All Accounts. Tech: Java, OOP, Collections Framework, Git.
 
 A simple and powerful Console-based Banking Application built using Core Java and OOP Concepts. This project simulates real-world banking operations.
